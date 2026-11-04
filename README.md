@@ -1,1 +1,2 @@
 # comandos-basicos-html
+Esta página apresenta os principais comandos básicos de HTML, utilizados para criar e estruturar páginas web. Nela, são abordadas tags essenciais, como títulos, parágrafos, links, imagens, listas e tabelas, além da estrutura básica de um documento HTML. O objetivo é proporcionar uma introdução simples e prática ao desenvolvimento web, facilitando o aprendizado de quem está começando a programar.
