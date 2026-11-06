@@ -1,1 +1,40 @@
 
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: #2864a5;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+main {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #2864a5;
+}
+
+h3 {
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #2864a5;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
